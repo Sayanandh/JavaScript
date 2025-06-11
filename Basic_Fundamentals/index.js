@@ -10,8 +10,17 @@
 //     "year4":4,
 // }
 // console.log(item)
-//Q1
-let a = "Saying Hello";
-let b= 10
-console.log(a+ " "+b);
-console.log(typeof (a+b))
+
+// let a = "Saying Hello";
+// let b= 10
+// console.log(a+ " "+b);
+// console.log(typeof (a+b))
+// console.log(typeof(a+b))
+// const dict ={
+//     helo:"i am sayy",
+//     baka:"i am a baka"
+// }
+// console.log(dict.baka)
+// false
+// let c = prompt("nigga whast ru age ")
+// console.log(typeof(a))

@@ -10,3 +10,8 @@
 //     "year4":4,
 // }
 // console.log(item)
+//Q1
+let a = "Saying Hello";
+let b= 10
+console.log(a+ " "+b);
+console.log(typeof (a+b))
